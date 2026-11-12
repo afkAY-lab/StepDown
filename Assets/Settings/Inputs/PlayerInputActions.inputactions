@@ -163,7 +163,7 @@
                 {
                     "name": "left",
                     "id": "ad40e397-9872-476d-bd61-9233c7f6cc86",
-                    "path": "<Joystick>/stick/left",
+                    "path": "<Gamepad>/leftStick/left",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -174,7 +174,7 @@
                 {
                     "name": "right",
                     "id": "e8b89378-85cd-43b7-bf84-fef82bf7c045",
-                    "path": "<Joystick>/stick/right",
+                    "path": "<Gamepad>/leftStick/right",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
